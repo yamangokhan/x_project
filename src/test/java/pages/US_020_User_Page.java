@@ -60,5 +60,4 @@ public class US_020_User_Page {
     @FindBy(xpath = "//div[@class='Toastify__toast-body']")
     public WebElement successMessage;
 
-
 }
